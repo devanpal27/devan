@@ -1,0 +1,52 @@
+.container{
+    text-align: center;
+    border: 2px solid lightgray;
+    padding: 10px;
+    width: 400px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+div{
+    box-shadow: 10px 10px 5px grey;
+}
+.container button[type="submit"]{
+    background-color: lightblue;
+    border: 2px solid lightblue;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 90%;
+}
+.container input[type="text"], input[type="password"]{
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 90%;
+}
+.container a{
+    text-decoration: none;
+    color: blue;
+    margin: 10px;
+}
+.container a:hover{
+    color: red;
+    text-decoration: underline;
+}
+.container button[type="submit"]:hover{
+    background-color: red;
+    border: 2px solid red;
+    color: white;
+}
+
+img{
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
