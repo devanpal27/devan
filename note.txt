@@ -1,0 +1,4 @@
+Rules To create components
+First letter of the compoments is in caps
+File name should be same as component name 
+In one you can create only one compoment
